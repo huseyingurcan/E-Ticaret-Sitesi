@@ -1,6 +1,4 @@
-#Ahita.com
-
-Yazılım Mühendisliği dersi proje ödevi
+PROJE ADI:#Ahita.com
 
 Proje Tanımı:Hemen hemen her işin internet üzerinden halledilebildiği bir zamanda istedikleri yerden istedikleri anda istedikleri birçok ürüne ulaşıp ihtiyaçlarını karşılayabilmeleri için oluşturulan 
 internet üzerinden alışveriş yapmaya yarayan online ticaret sitesi.İhtiyaçlar,trend ürünler,geniş ürün yelpazemiz ile arınılan her şey oturduğunuz yerden güvenli ödeme sistemimiz,güvenilir marka kimliğimizle 
