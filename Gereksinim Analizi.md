@@ -1,0 +1,22 @@
+GEREKSİNİMLER
+1.Ürün Ekle:Kullanıcıların almak istedikleri ürünü sepet oluşturup sepete ekleyip kolaylıkla satın almaları için oluşturuşmuş bir depo denebilir.
+
+2.Ürün Sil:Kullanıcıların vazgeçtikleri ya da almak istemedikleri ürünleri sepetlerinden silmeleri.
+
+3.Ürün Karşılaştır:Kullanıcıların kararsız kalması ya da daha uygun fiyata daha iyi bir ürün almak istemeleri amacıyla sunulan ürün karşılaştırma özelliği
+
+4.Üye Kaydı:Kullanıcıların hizmetleri daha etkin ve daha kolay kullanması amacıyla ve kullanıcılara belirgin fırsatlar sunulması amacıyla birtakım istenen kişisel verilerin kişi-marka güvenliği açısından alınıp hesap oluşturma işlemidir.
+
+5.Üye Girişi:Kullanıcıların hizmetlere erişebilmesi için kendilerinden istenen kimlik doğrulama sürecidir.
+Kullanıcı güvenliği ve kişisel bilgilerin korunması amacıyla da önemlidir.
+Kullanıcı adı şifre veya diğer kullanıcı-anahtar yöntemleri ile sağlanan kullanıcı kimlik doğrulama işlemi.
+
+6.Sepet Oluşturma:Kullanıcıların almak istedikleri ürünleri ekleyip toplu bir şekilde sipariş oluşturmalarına yarayan,toplam fiyat bilgisini gösterip kullanıcı bilgilendiren bir ürün deposu
+
+7.Ödeme İşlemleri:Kullanıcı-marka arasında ödeme işlemini alıp güvenlik ve güvenilirlik etiği altında alışveriş tamamlanması için gerçekleştirilen son adımdır.
+
+8.Ürün Arama:Kullanıcıların istedikleri ihtiyacı olan veya merak edip almak istedikleri ürünleri daha kolay şekilde bulmaları için sunulan bir özelliktir.
+
+9.Favori Ürünler:Kullanıcıların almak için veya diğer kullanıcılara ürünün başarısı hakkında bilgi sunmak için kullandıkları beğeni özelliği
+
+10.Liste Oluşturma:Kuullanıcıların almak için oluşturduğu bir ürün ihtiyaç listesidir.Eski market-pazar alışveriş listesini kağıda yazmak yerine dijitalde kolay bir şekilde liste oluşturmasıdır.
