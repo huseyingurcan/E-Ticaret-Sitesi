@@ -11,7 +11,7 @@ Referans Uygulama:https://www.trendyol.com
 
 Uygulama Adresi:https://www.trendyol.com
 
-Grup Adı:ahita
+Grup Adı:PratikKal
 
 Proje Ekibi:Hüseyin Gürcan
 
