@@ -24,4 +24,4 @@ GEREKSİNİMLER
 GEREKSİNİM DAĞILIMLARI
 
 
-1.[Hüseyin Gürcan](Hüseyin-Gürcan-Gereksinimler)
+1.[Hüseyin Gürcan'ın Gereksinimleri](Hüseyin-Gürcan-Gereksinimler)
