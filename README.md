@@ -13,6 +13,7 @@ Referans Uygulama:https://www.trendyol.com
 Uygulama Adresi:https://www.trendyol.com
 
 Grup Adı:ahita
+
 Proje Ekibi:Hüseyin Gürcan
 
 1.[Gereksinim Analizi](Gereksinim-Analizi.md)
