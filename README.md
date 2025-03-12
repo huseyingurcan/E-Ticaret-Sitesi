@@ -7,7 +7,9 @@ sizlerle birlikte her anınızdayız.Üstelik kolay arayüzümüzle yediden yetm
 Marka ürünler ve hızlı teslimat kargo süreci ile herkes için mutlu alışveriş.Satış sonrası hizmetlerimizle birlikte de yalnız değilsiniz. 
 
 Proje Kategorisi:E-Ticaret
+
 Referans Uygulama:https://www.trendyol.com
+
 Uygulama Adresi:https://www.trendyol.com
 
 Grup Adı:ahita
