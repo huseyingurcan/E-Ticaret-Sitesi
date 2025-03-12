@@ -1,4 +1,6 @@
 GEREKSİNİMLER
+
+
 1.Ürün Ekle:Kullanıcıların almak istedikleri ürünü sepet oluşturup sepete ekleyip kolaylıkla satın almaları için oluşturuşmuş bir depo denebilir.
 
 2.Ürün Sil:Kullanıcıların vazgeçtikleri ya da almak istemedikleri ürünleri sepetlerinden silmeleri.
