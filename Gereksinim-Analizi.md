@@ -13,4 +13,6 @@ GEREKSİNİMLER
 10.Liste Oluşturma
 
 GEREKSİNİM DAĞILIMLARI
+
+
 1.[Hüseyin Gürcan](Hüseyin-Gürcan-Gereksinimler)
